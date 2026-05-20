@@ -1,0 +1,9 @@
+# Student Performance Analysis
+this is a practice GitHub repository.
+
+## Goal
+Learn how Git and GitHub work.
+
+## Tools
+- VS Code
+- GitHub Desktop
