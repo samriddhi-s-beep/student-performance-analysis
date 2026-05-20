@@ -7,3 +7,6 @@ Learn how Git and GitHub work.
 ## Tools
 - VS Code
 - GitHub Desktop
+
+## Staatus
+learning GitHub basics
