@@ -8,5 +8,5 @@ Learn how Git and GitHub work.
 - VS Code
 - GitHub Desktop
 
-## Staatus
+## Status
 learning GitHub basics
