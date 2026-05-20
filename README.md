@@ -10,3 +10,6 @@ Learn how Git and GitHub work.
 
 ## Status
 learning GitHub basics
+
+## Notes
+Practicing commits and version control.
