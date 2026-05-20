@@ -12,6 +12,6 @@ Learn how Git and GitHub work.
 learning GitHub basics
 
 ## Notes
--Practicing commits and version control.
--Learning Repository Structure
--Commit Workflow
+- Practicing commits and version control.
+- Learning Repository Structure
+- Commit Workflow
